@@ -1,0 +1,14 @@
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\bin\Debug\net8.0\MidtermProjectOOP.exe
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\bin\Debug\net8.0\MidtermProjectOOP.deps.json
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\bin\Debug\net8.0\MidtermProjectOOP.runtimeconfig.json
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\bin\Debug\net8.0\MidtermProjectOOP.dll
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\bin\Debug\net8.0\MidtermProjectOOP.pdb
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\obj\Debug\net8.0\MidtermProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\obj\Debug\net8.0\MidtermProjectOOP.AssemblyInfoInputs.cache
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\obj\Debug\net8.0\MidtermProjectOOP.AssemblyInfo.cs
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\obj\Debug\net8.0\MidtermProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\obj\Debug\net8.0\MidtermProjectOOP.dll
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\obj\Debug\net8.0\refint\MidtermProjectOOP.dll
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\obj\Debug\net8.0\MidtermProjectOOP.pdb
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\obj\Debug\net8.0\MidtermProjectOOP.genruntimeconfig.cache
+C:\Users\MJ ARANZADO\source\repos\MidtermProjectOOP\MidtermProjectOOP\obj\Debug\net8.0\ref\MidtermProjectOOP.dll
